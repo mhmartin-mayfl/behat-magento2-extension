@@ -1,5 +1,5 @@
 {
-    "name": "seec/behat-magento2-extension",
+    "name": "mhmartin-mayfl/behat-magento2-extension",
     "type": "behat-extension",
     "description": "Magento2 extension for Behat",
     "keywords": ["magento", "magento2", "tdd","bdd","behat"],
