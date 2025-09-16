@@ -7,25 +7,19 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Tibor Kotosz",
-            "email": "kotosy@gmail.com",
-            "homepage": "https://github.com/tkotosz",
-            "role": "Developer"
-        },
-        {
-            "name": "Maximilian Graf Schimmelmann",
-            "email": "max@schimmelmann.org",
-            "homepage": "https://www.schimmelmann.org",
+            "name": "Matias H. Martin",
+            "email": "martin.matias.h@gmail.com",
+            "homepage": "https://github.com/mhmartin",
             "role": "Developer"
         }
     ],
     "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
-        "php": "^8.1",
+        "php": "^8.2",
         "behat/behat": "^3.7",
         "magento/framework": "103.0.6-p12",
-        "magento/module-store": "101.1.6",
+        "magento/module-store": "101.1.6-p12",
         "container-interop/container-interop": "^1.2",
         "symfony/dependency-injection": "^6",
         "symfony/event-dispatcher": "^6",
